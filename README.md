@@ -7,3 +7,5 @@
 if you want to use an executable to use directly from /bin, you can use the following command:
 
 python3 -m PyInstaller pyProject.py --onefile
+
+OBS: the pyinstaller that comes by default in kali linux has some problems and it is recommended to download pyinstaller by pip
